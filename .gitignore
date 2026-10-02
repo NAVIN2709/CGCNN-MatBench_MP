@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional
+*.pkl
+
+matbench_graphs_graphed_data.pt
+matbench_mp_gap.csv
